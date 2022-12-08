@@ -1,0 +1,9 @@
+black
+isort
+ipdb
+mypy
+pudb
+
+markdown
+ankisync
+requests
